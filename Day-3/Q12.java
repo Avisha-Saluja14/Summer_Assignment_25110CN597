@@ -21,3 +21,6 @@ System.out.println("LCM is"+((a*b)/A));
     
 }
 
+
+
+

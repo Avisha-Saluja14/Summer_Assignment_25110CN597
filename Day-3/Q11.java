@@ -18,3 +18,5 @@ System.out.println("HCF is"+A);
     }
     
 }
+
+
